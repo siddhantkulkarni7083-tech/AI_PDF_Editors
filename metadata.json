@@ -1,0 +1,6 @@
+{
+  "name": "AI Image Text Editor",
+  "description": "OCR text detection and precision localized text editing for GPS, coordinates, timestamps, and photos",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
